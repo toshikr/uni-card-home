@@ -1,2 +1,5 @@
-# uni-card-home
-Home page of uni card using react and next js.
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
